@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.font-playfair {
+    font-family: "Playfair Display", serif !important;
+  }
+  
+  .font-poppins {
+    font-family: "Poppins", sans-serif !important;
+  }
+.icon-bg {
+  background-color: #81af75;
+}
+
+.footer {
+  background-color: #09270d;
+  color: #b0baa3;
+}
+
+.footer-bg {
+  background-image: url(../image/footer-bg.png);
+  background-repeat: no-repeat;
+}
+
+.green-text {
+  color: #b0baa3 !important;
+}
+
+.lower-icon {
+  color: white;
+}
+
+.copyright {
+  border-top: solid #4a4e1c;
+}
+
+.item-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide {
+    text-align: center;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide-active .green-bg {
+    background-color: #81af75;
+  }
+
+
+  
